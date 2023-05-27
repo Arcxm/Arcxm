@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Arcxm
-- 👀 I’m interested in computer science, mathematics, languages and music
-- 🌱 I’m currently learning russian (B2), polish (B1), ukrainian (B1) and korean (A1)
+hi, i'm @Arcxm, a german guy interested in computer science, mathematics, languages, music and much more.
+
+i learn russian (B2), polish (B1) and ukrainian (B1) while also being able to read hangul (A1) and hiragana.
 
 <!---
 Arcxm/Arcxm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
